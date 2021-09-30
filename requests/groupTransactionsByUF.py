@@ -1,7 +1,10 @@
 import pandas as pd
 
 db = pd.read_excel('../filteredDatabase.xlsx')
-#Realizar uma análise do número de operações e do valor das operações, considerando as variáveis de região geográfica, setor do BNDES e porte das empresas.
+# Realizar uma análise do número de operações e do valor das operações, considerando as variáveis de
+# região geográfica
+# setor do BNDES
+# porte das empresas
 
 # Comparar número de empréstimos entre UF
 
