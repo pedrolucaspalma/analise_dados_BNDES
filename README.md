@@ -14,9 +14,9 @@ Realizar uma análise do:
 
 ### Por Região Geográfica
 
-[ ] Comparar número de empréstimos entre UF
+[X] Comparar número de empréstimos entre UF
 
-[ ] Comparar valores de empréstimos entre UF
+[X] Comparar valores de empréstimos entre UF
 
 #### Por Setor do BNDES
 
